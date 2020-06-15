@@ -1,5 +1,5 @@
 {
-  "name": "natours",
+  "name": "Travel Web",
   "version": "1.0.0",
   "description": "Learning node, express and mongoDB",
   "main": "app.js",
@@ -8,7 +8,7 @@
     "start:prod": "NODE_ENV=production nodemon server.js",
     "debug": "ndb server.js"
   },
-  "author": "Jonas Schmedtmann",
+  "author": "Sahan Pasindu Nirmal",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^7.0.0",
